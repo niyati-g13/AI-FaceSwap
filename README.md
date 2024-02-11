@@ -1,2 +1,2 @@
 # AI-FaceSwap
-AI Based FaceSwap to create avatarr
+AI Based FaceSwap to create Avatars
